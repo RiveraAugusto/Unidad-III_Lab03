@@ -3,7 +3,7 @@
 # SESION DE LABORATORIO N° 03: Funciones de Pivoting y Grouping Sets
 
 ## OBJETIVOS
-  * Comprender como se utilizan funciones o comandos SQL de Pivoting y Grouping Sets
+  * Comprender como se utilizan funciones o comandos SQL de Pivoting y Grouping Set
 
 ## REQUERIMIENTOS
   * Conocimientos: 
